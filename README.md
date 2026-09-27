@@ -1,4 +1,4 @@
-# EDGE AI — Federated Learning
+# EDGE AI --- Federated Learning
 
 This repository contains a hands-on lab introducing the basic concepts of **Federated Learning (FL)** using the **MNIST handwritten digit dataset**.
 
