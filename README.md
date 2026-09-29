@@ -75,3 +75,11 @@ The lab follows a simple progression:
 **Distributed Data → Independent Local Training → Observe the Problem → Federated Learning → Shared Global Model**
 
 This provides a practical introduction to why Federated Learning is useful when data is distributed across multiple devices, users, or organizations.
+
+## Related Edge AI labs
+
+Explore the three companion repositories:
+
+- [Federated Learning](https://github.com/TurgudValiyev2002/EDGE-AI---Federated-Leaning): collaborative training across clients with local data.
+- [Model Compression](https://github.com/TurgudValiyev2002/EDGE-AI---model_compression): model optimization and deployment trade-offs.
+- [Knowledge Distillation](https://github.com/TurgudValiyev2002/EDGE-AI---knowledge_distillation): training a compact student using a larger teacher.
